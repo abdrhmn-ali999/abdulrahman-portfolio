@@ -1,0 +1,12 @@
+{
+  "nav_home": "Home",
+  "nav_about": "About",
+  "nav_projects": "Projects",
+  "nav_blog": "Blog",
+  "nav_contact": "Contact",
+  "hero_greeting": "Hi, I'm Abdulrahman",
+  "hero_role": "Full-Stack Developer",
+  "search_placeholder": "Search projects, skills...",
+  "read_more": "Read more",
+  "contact_send": "Send Message"
+}
